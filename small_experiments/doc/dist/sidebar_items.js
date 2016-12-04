@@ -1,0 +1,1 @@
+sidebarNodes={"exceptions":[],"extras":[{"id":"api-reference","title":"API Reference","headers":[]}],"modules":[{"id":"LearningElixir","title":"LearningElixir","functions":[{"id":"publish/1","anchor":"publish/1"}]}],"protocols":[]}

@@ -1,0 +1,10 @@
+{application,learning_elixir,
+             [{registered,[]},
+              {description,"learning_elixir"},
+              {vsn,"0.1.0"},
+              {modules,['Elixir.BankAccount','Elixir.CardDeck',
+                        'Elixir.Entity','Elixir.FridgeServer',
+                        'Elixir.HealthComponent','Elixir.LearningElixir',
+                        'Elixir.Ping','Elixir.Pong','Elixir.Unix',
+                        'Elixir.WeaponComponent','Elixir.XYComponent']},
+              {applications,[kernel,stdlib,elixir,logger]}]}.
